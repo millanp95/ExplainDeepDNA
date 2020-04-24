@@ -1,7 +1,7 @@
 # ExplainDeepDNA
 
 
-Source files for an interpretability study in Machine Learning models for DNA classification files.
+Source files for an interpretability study in Machine Learning models for DNA classification models.
 
 Requisites:
 1. Keras 2.0
